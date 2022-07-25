@@ -1,1 +1,1 @@
-web: sh setup.sh && python project.py && streamlit run app.py && wait -n
+web: sh setup.sh && python project.py && streamlit run app.py && wait -n --port=$PORT
