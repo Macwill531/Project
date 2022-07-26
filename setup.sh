@@ -1,4 +1,3 @@
-rm -i ~/.streamlit/config.toml
 mkdir -p ~/.streamlit/
 
 echo "\
