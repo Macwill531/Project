@@ -12,7 +12,7 @@ import pandas as pd #The Pandas data science library
 from scipy import stats #The SciPy stats modules
 
 #Create excel Data Output
-import xlsxwriter #The XlsxWriter libarary for 
+import xlsxwriter #The XlsxWriter library to create Excel File
 
 #Data Visualization Libraries
 import plotly.express as px
